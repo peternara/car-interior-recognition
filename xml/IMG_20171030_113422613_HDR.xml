@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ford</folder>
+	<filename>IMG_20171030_113422613_HDR.jpg</filename>
+	<path>/Users/unixer-workstation/Documents/Workspaces/Tools/car-interior-recognition/images/Ford/IMG_20171030_113422613_HDR.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ford</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1822</xmin>
+			<ymin>1535</ymin>
+			<xmax>2297</xmax>
+			<ymax>1772</ymax>
+		</bndbox>
+	</object>
+</annotation>
